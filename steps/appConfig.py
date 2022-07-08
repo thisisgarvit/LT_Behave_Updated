@@ -3,12 +3,12 @@ app_android_desired_caps = {
 		"platformName": "android",
 		"deviceName": "OnePlus 6",
 		"platformVersion": "8",
-        "build": "Python Behave - Android",
+      		"build": "Python Behave - Android",
 		"name": "Sample Test Android",
 		"app": "lt://", #Enter app_url here
 		"visual": True,
 		"video": True,
-        "w3c": True,
+       		"w3c": True,
 		"isRealMobile": True
 	}
 }
